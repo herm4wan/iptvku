@@ -1,26 +1,24 @@
 #EXTM3U
-
-
 #EXTINF:-1 tvg-id="NetTV.id" tvg-name="NET TV HD" tvg-logo="http://images2.useetv.com/logo_net_big1.png?v=1.0.0.0" group-title="Lokal",NET TV HD
-http://tvku.live:8888/live/78.ts
+http://tvku.live:8888/live/Hermawan/9720/78.ts
 #EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" tvg-logo="http://images2.useetv.com/logo_tvri_big1.png?v=1.0.0.0" group-title="News",TVRI
-http://tvku.live:8888/live/36.ts
+http://tvku.live:8888/live/Hermawan/9720/36.ts
 #EXTINF:-1 tvg-id="" tvg-name="TVRI Sport HD" tvg-logo="https://pbs.twimg.com/profile_images/883888961269055488/3XoDJtju_400x400.jpg" group-title="Sports",TVRI Sport HD
-http://tvku.live:8888/live/565.ts
+http://tvku.live:8888/live/Hermawan/9720/565.ts
 #EXTINF:-1 tvg-id="" tvg-name="TVRI Jakarta" tvg-logo="" group-title="Lokal",TVRI Jakarta
-http://tvku.live:8888/live/727.ts
+http://tvku.live:8888/live/Hermawan/9720/727.ts
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="http://images2.useetv.com/logo_transtv_big1.png?v=1.0.0.0" group-title="Lokal",Trans TV
-http://tvku.live:8888/live/34.ts
+http://tvku.live:8888/live/Hermawan/9720/34.ts
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans 7" tvg-logo="http://images2.useetv.com/logo_trans7_big1.png?v=1.0.0.0" group-title="Lokal",Trans 7
-http://tvku.live:8888/live/35.ts
+http://tvku.live:8888/live/Hermawan/9720/35.ts
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="http://images2.useetv.com/logo_sctv_big1.png?v=1.0.0.0" group-title="Lokal",SCTV
-http://tvku.live:8888/live/32.ts
+http://tvku.live:8888/live/Hermawan/9720/32.ts
 #EXTINF:-1 tvg-id="NetTV.id" tvg-name="NET TV" tvg-logo="http://images2.useetv.com/logo_net_big1.png?v=1.0.0.0" group-title="Lokal",NET TV
 http://tvku.live:8888/live/Hermawan/9720/24.ts
 #EXTINF:-1 tvg-id="" tvg-name="Usee Sport Liga Gojek" tvg-logo="" group-title="Sports",Usee Sport Liga Gojek
 http://tvku.live:8888/live/Hermawan/9720/693.ts
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="http://images2.useetv.com/logo_indosiar_big1.png?v=1.0.0.0" group-title="Lokal",Indosiar
-http://tvku.live:8888/live/33.ts
+http://tvku.live:8888/live/Hermawan/9720/33.ts
 #EXTINF:-1 tvg-id="" tvg-name="O Channel" tvg-logo="https://tesbakatindonesia.com/wp-content/uploads/2014/09/Logo_O-Channel_wwwochanneltvcomv2_ID-4.png?x41904" group-title="Lokal",O Channel
 http://tvku.live:8888/live/Hermawan/9720/547.ts
 #EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="http://images2.useetv.com/logo_antv_big1.png?v=1.0.0.0" group-title="Lokal",ANTV
@@ -525,3 +523,29 @@ http://tvku.live:8888/live/Hermawan/9720/586.ts
 http://tvku.live:8888/live/Hermawan/9720/584.ts
 #EXTINF:-1 tvg-id="" tvg-name="Prambors FM Yogyakarta" tvg-logo="" group-title="Radio",Prambors FM Yogyakarta
 http://tvku.live:8888/live/Hermawan/9720/583.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pacific Rim: Uprising" tvg-logo="" group-title="",Pacific Rim: Uprising
+http://tvku.live:8888/movie/Hermawan/9720/590.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Interstellar (2014)" tvg-logo="" group-title="",Interstellar (2014)
+http://tvku.live:8888/movie/Hermawan/9720/594.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Friday The 13th (HBO OD)" tvg-logo="" group-title="General Movies",Friday The 13th (HBO OD)
+http://tvku.live:8888/movie/Hermawan/9720/658.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Robinson Crusoe (HBO OD)" tvg-logo="" group-title="General Movies",Robinson Crusoe (HBO OD)
+http://tvku.live:8888/movie/Hermawan/9720/657.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tarzan (Fox Movies OD)" tvg-logo="" group-title="General Movies",Tarzan (Fox Movies OD)
+http://tvku.live:8888/movie/Hermawan/9720/659.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diary of A Wimpy Kid (Fox Movies OD)" tvg-logo="" group-title="General Movies",Diary of A Wimpy Kid (Fox Movies OD)
+http://tvku.live:8888/movie/Hermawan/9720/660.mp4
+#EXTINF:-1 tvg-id="" tvg-name="AWOL-72 (Fox Action OD)" tvg-logo="" group-title="General Movies",AWOL-72 (Fox Action OD)
+http://tvku.live:8888/movie/Hermawan/9720/664.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Commando (Fox Action OD)" tvg-logo="" group-title="General Movies",Commando (Fox Action OD)
+http://tvku.live:8888/movie/Hermawan/9720/662.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Asian Connection (Fox Action OD)" tvg-logo="" group-title="General Movies",Asian Connection (Fox Action OD)
+http://tvku.live:8888/movie/Hermawan/9720/663.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Shockwave (Fox Action OD)" tvg-logo="" group-title="General Movies",Shockwave (Fox Action OD)
+http://tvku.live:8888/movie/Hermawan/9720/665.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Smurfs 2 (Fox Movies OD)" tvg-logo="" group-title="General Movies",The Smurfs 2 (Fox Movies OD)
+http://tvku.live:8888/movie/Hermawan/9720/666.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Madagascar: Escape 2 Africa" tvg-logo="" group-title="General Movies",Madagascar: Escape 2 Africa
+http://tvku.live:8888/movie/Hermawan/9720/668.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Total Recall (Fox Movies OD)" tvg-logo="" group-title="General Movies",Total Recall (Fox Movies OD)
+http://tvku.live:8888/movie/Hermawan/9720/667.mp4
